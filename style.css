@@ -1,0 +1,239 @@
+html {
+ scroll-behavior: smooth;
+}
+
+#map iframe
+{
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+#footer{
+  height: 20px;
+  background-color:white;
+  }
+
+input
+{
+    background: grey
+}
+
+.announcement{
+background-color:#337ab7;
+width: 100%;
+height: 30px;
+}
+
+#marqueeStyle{
+  width:100%;
+  direction:right;
+  height:100px;
+  color: beige;
+  font-size:120%;
+}
+
+#video{
+  width:100%;
+  height:500px;
+  border: none;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.travel_mainDiv hr
+{
+    width: 100%; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+#achievementsID{
+ padding-bottom: 10px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+#achievementsa p {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+}
+
+#school_achievements1 .container {
+    background-color: white;
+}
+
+c {
+    text-align: left;
+    font-size: 30px;
+}
+
+#school_achievements1 {
+    margin-bottom: 10px;
+}
+
+
+.environment_li {
+    margin-top: 13px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+#whats-new p {
+    text-align: left;
+    font-size: 15px;
+}
+
+#whats-new img {
+    height: 200px;
+    width: 300px;
+}
+
+.container p {
+    margin-left: 25px;
+}
+
+.environment_li {
+    border-radius: 10px;
+}
+
+.movie_text h5 {
+    font-size: 17px;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top:0;
+    z-index:99999;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor:pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.model-content {
+    margin-top: 100px;
+}
+
+.img_model {
+    display: inline-block;
+    text-align: center;
+}
+
+.p_model {
+    margin-top: 10px;
+}
+
+.model_body {
+    text-align: center;
+}
+
+#alumni img {
+    height: 326px;
+    width: 250px;
+}
+
+#alumni p {
+    font-size: 17px;
+    text-align: center;
+}
+
+.modal-body {
+    text-align: center;
+}
+.modal-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.modal-body img {
+    border-radius: 15px;
+}
+
+.modal {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.book img {
+    border-radius: 5px;
+    width: 13%;
+}
+
+.travel_mainDiv h4 {
+    text-align: center;
+}
+
+.op {
+    font-size: 17px;
+    font-family: cursive;
+    color: chocolate;
+}
+
+.po {
+    font-size: 17px;
+    font-family: cursive;
+    color: lightcoral;
+}
+
